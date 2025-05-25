@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boss.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/boss.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/employee.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/employee.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manager.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manager.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/worker.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/workerManager.cpp" charset="GBK" />
+  </component>
+</project>
